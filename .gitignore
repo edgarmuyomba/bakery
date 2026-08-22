@@ -1,0 +1,8 @@
+# node packages
+node_modules/
+
+# build folder
+dist/
+
+# Reference Images
+ref_images/
